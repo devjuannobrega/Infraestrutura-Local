@@ -1,0 +1,23 @@
+# Dados dos serviços (não commitar)
+gitlab/config/
+gitlab/logs/
+gitlab/data/
+minio/data/
+
+# Credenciais (não commitar!)
+credenciais.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporários
+*.tmp
+*.temp
